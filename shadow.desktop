@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=Shadow
+Exec=bash -c $HOME/.shadow/Shadow.AppImage
+Icon=/usr/share/icons/shadow.xpm
+Terminal=false
+Type=Application

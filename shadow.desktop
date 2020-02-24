@@ -5,4 +5,4 @@ Name=Shadow
 Exec=bash -c $HOME/.shadow/Shadow.AppImage
 Icon=/usr/share/icons/shadow.xpm
 Terminal=false
-Type=Application,Gaming
+Type=Application
